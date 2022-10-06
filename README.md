@@ -3,6 +3,7 @@
 <p align="center">
 <img alt="gif" width="500" src="https://i.giphy.com/media/eeUXPtoQahfUs/giphy.webp">
 </p>
+
 - 🌱 I’m currently learning **JavaScript**
 - 📫 How to reach me **studentfirat@gmail.com**
 
