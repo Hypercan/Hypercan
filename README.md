@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋, I'm Fırat Can Karakoç</h1>
 <h3 align="center">A passionate Front-End developer from Turkey</h3>
 <p align="center">
-<img alt="gif" width="500" src="https://i.giphy.com/media/eeUXPtoQahfUs/giphy.webp">
+<img alt="gif" width="500" src="[https://i.giphy.com/media/eeUXPtoQahfUs/giphy.webp](https://giphy.com/embed/JSWRSXwOCsM6c" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/david-duchovny-californication-hank-moody-JSWRSXwOCsM6c)">
 </p>
 
 - 🌱 I’m currently learning **JavaScript**
