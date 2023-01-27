@@ -1,8 +1,6 @@
 <h1 align="center">Hi! 👋, I'm Fırat Can Karakoç</h1>
 <h3 align="center">A passionate Front-End developer from Turkey</h3>
-<p align="center">
-<img alt="gif" width="500" src="https://media2.giphy.com/media/JSWRSXwOCsM6c/giphy.gif?cid=790b7611e1b33a17dda0eed3169c0b6edee82d5b73707c37&rid=giphy.gif&ct=g">
-</p>
+<p align="center"></p>
 
 - 🌱 I’m currently learning **JavaScript**
 - 📫 How to reach me **studentfirat@gmail.com**
