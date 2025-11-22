@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Front-End developer from Turkey</h3>
 <p align="center"></p>
 
-- 🌱 I’m currently learning **JavaScript**
-- 📫 How to reach me **studentfirat@gmail.com**
+- 📫 How to reach me **firatcankarakoc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
